@@ -1,0 +1,22 @@
+.contacts-container {
+  padding: 20px;
+}
+
+.add-contact input {
+  margin-right: 8px;
+  padding: 6px;
+}
+
+.add-contact button {
+  padding: 6px 10px;
+}
+
+.contact-list {
+  margin-top: 20px;
+}
+
+.contact-list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}

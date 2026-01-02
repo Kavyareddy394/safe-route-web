@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background-image: url("../../pexels-arthousestudio-4310372.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
